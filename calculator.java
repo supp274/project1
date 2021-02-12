@@ -1,3 +1,5 @@
+/* This code will work as a simple calculator */
+
 import java.util.Scanner;
 
  public class calculator
